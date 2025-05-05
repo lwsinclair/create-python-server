@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/modelcontextprotocol-create-python-server-badge.png)](https://mseep.ai/app/modelcontextprotocol-create-python-server)
+
 # MCP Create Server
 
 [![PyPI](https://img.shields.io/pypi/v/create-mcp-server)](https://pypi.org/project/create-mcp-server/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
